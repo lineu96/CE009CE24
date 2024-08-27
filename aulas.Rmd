@@ -1,0 +1,189 @@
+---
+title: "Introdução à Estatística"
+subtitle: |
+  | Prof. Me. Lineu Alberto Cavazani de Freitas
+author: |
+  |
+  | 2024/02 - Ciências Sociais
+output:
+  html_document:                    
+    #toc: true                       
+    #toc_depth: 3                    
+    #toc_float:                      
+    #  collapsed: true
+    #  smooth_scroll: true
+    #number_sections: true           
+    #theme: default
+    #spacelab
+    #default,cerulean,journal,flatly,readable,spacelab,
+    #united,cosmo,lumen,paper,sandstone,simplex,yeti
+    
+    highlight: espresso
+    #default, tango, pygments, kate, monochrome, espresso, zenburn, haddock, and textmate
+    #css: styles.css                
+    fig_width: 7                    
+    fig_height: 6                   
+    fig_caption: true               
+    fig_align: 'center'
+    #code_folding: hide              
+#    keep_md: true
+---
+
+---
+
+# Aulas do curso
+
+---
+
+## Bloco 1: Análise Exploratória
+
+**Aula 1**
+
+ - [Orientações iniciais e Introdução.](slides/100-introducao.pdf)
+ - [Atividade prática: tipos de variáveis e tipos de estudos]().
+
+**Aula 2**
+
+ - [Dados e amostragem.](slides/101-dados-e-amostragem.pdf)
+ - [Atividade prática: amostragem]().
+
+**Aula 3**
+
+ - [Gráficos e tabelas para variáveis qualitativas.](slides/102-exploratoria-quali-uni-tabelas-graficos.pdf)
+ - [Atividade prática: gráficos e tabelas]().
+ 
+**Aula 4**
+
+ - [Gráficos e tabelas para variáveis quantitativas.](slides/103-exploratoria-quant-uni-tabelas-graficos.pdf)
+ - [Atividade prática: gráficos e tabelas]().
+
+**Aula 5**
+
+ - [Resumos numéricos - medidas de posição.](slides/104-exploratoria-medidas-posicao.pdf)
+ - [Atividade prática: medidas de posição]().
+ 
+**Aula 6**
+
+ - [Resumos numéricos - medidas de dispersão.](slides/105-exploratoria-medidas-dispersao.pdf)
+ - [Atividade prática: medidas de dispersão]().
+
+**Aula 7**
+
+ - [Análises bivariadas.](slides/106-exploratoria-bivariada.pdf)
+ - [Atividade prática: análises bivariadas]().
+
+**Aula 8**
+
+ - Resolução de exercícios.
+
+**Aula 9**
+
+ - PROVA 1
+
+---
+
+## Bloco 2: Probabilidades
+
+**Aula 10**
+
+ - [Introdução a probabilidade](slides/200-intro-prob.pdf).
+ - [Atividade prática: probabilidade]().
+ 
+**Aula 11**
+
+ - [Operações com probabilidades](slides/201-operacoes-com-probabilidades.pdf).
+ - [Atividade prática: probabilidade](). 
+    
+**Aula 12**
+
+ - [Teorema de Bayes](slides/202-teorema-de-bayes.pdf).
+ - [Atividade prática: Teorema de Bayes]().
+
+**Aula 13**
+
+ - Resolução de exercícios.
+ 
+---
+
+## Bloco 3: Variáveis Aleatórias e Distribuições de Probabilidade
+
+**Aula 14**
+
+ - [Variáveis aleatórias discretas e contínuas](slides/300-variaveis-aleatorias.pdf).
+  - [Atividade prática: variáveis aleatórias discretas e contínuas]().
+  
+**Aula 15**  
+
+- Resolução de exercícios.
+
+**Aula 16**
+
+ - [Distribuições de probabilidade discretas](slides/301-distribuicoes-discretas.pdf).
+ - Atividade prática: distribuições de probabilidade.
+ 
+**Aula 17**
+
+ - [Distribuições de probabilidade contínuas](slides/302-distribuicoes-continuas.pdf).
+ - Atividade prática: distribuições de probabilidade.
+
+**Aula 18**
+
+ - Resolução de exercícios.
+
+**Aula 19**
+
+ - PROVA 2
+
+---
+
+## Bloco 4: Inferência
+
+**Aula 20**
+
+ - [Introdução à inferência](slides/400-intro-inferencia.pdf).
+ - [Atividade prática: introdução à inferência]().
+
+**Aula 21**
+
+ - [Estimação pontual e intervalar](slides/401-estimacao-pontual-intervalar.pdf).
+ - [Atividade prática: estimação pontual e intervalar]().
+    
+**Aula 22**
+
+ - [Tamanho amostral](slides/402-tamanho-amostral.pdf).
+ - [Atividade prática: tamanho amostral]()
+ - Resolução de exercícios.
+
+**Aula 23**
+
+ - [Introdução aos testes de hipóteses, testes para uma população](slides/403-testes-de-hipoteses.pdf).
+ - [Atividade prática: testes de hipóteses]().
+
+**Aula 24**
+
+ - PROVA 3
+
+**Exame**
+
+ - 19/12/24.
+
+---
+
+<center>
+
+<table><tr>
+
+<td> <img src="img/ufpr-transparent-600px.png" alt="Drawing" style="width: 200px;"/> </td>
+
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+
+<td> <img src="img/dest-texto-2.png" alt="Drawing" style="width: 250px;"/> </td>
+
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+
+<td> <img src="img/leg.png" alt="Drawing" style="width: 300px;"/> </td>
+
+</center>
+
+
+<div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>
