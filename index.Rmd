@@ -43,8 +43,8 @@ output:
 
 **Locais e horários**: 
 
- - Terça, 19:00 - 20:50, Sala nº 14.
- - Quinta, 20:50 - 22:30, Sala nº 14.
+ - Terça, 19:00 - 20:50, Sala nº 31.
+ - Quinta, 20:50 - 22:30, Sala nº 31.
  
 **Horários de atendimento**: a combinar.
 
