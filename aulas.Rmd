@@ -4,7 +4,7 @@ subtitle: |
   | Prof. Me. Lineu Alberto Cavazani de Freitas
 author: |
   |
-  | 2024/02 - Ciências Sociais
+  | 2024/02 - Ciências Econômicas
 output:
   html_document:                    
     #toc: true                       
@@ -40,22 +40,20 @@ output:
 **Aula 1**
 
  - [Orientações iniciais e Introdução.](slides/100-introducao.pdf)
- - [Atividade prática: tipos de variáveis e tipos de estudos]().
 
 **Aula 2**
 
  - [Dados e amostragem.](slides/101-dados-e-amostragem.pdf)
- - [Atividade prática: amostragem]().
+ - [Atividade prática: tipos de variáveis, tipos de estudo, amostragem](praticas-aula/100-variaveis-estudos-amostragem-solucao.pdf).
 
 **Aula 3**
 
  - [Gráficos e tabelas para variáveis qualitativas.](slides/102-exploratoria-quali-uni-tabelas-graficos.pdf)
- - [Atividade prática: gráficos e tabelas]().
- 
+
 **Aula 4**
 
  - [Gráficos e tabelas para variáveis quantitativas.](slides/103-exploratoria-quant-uni-tabelas-graficos.pdf)
- - [Atividade prática: gráficos e tabelas]().
+ - [Atividade prática: gráficos e tabelas](praticas-aula/101-tabelas-graficos-quali-quant-solucao.pdf).
 
 **Aula 5**
 
