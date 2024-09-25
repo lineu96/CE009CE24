@@ -67,11 +67,12 @@ output:
 **Aula 7**
 
  - [Análises bivariadas.](slides/106-exploratoria-bivariada.pdf)
- - [Atividade prática: análises bivariadas]().
+ - [Atividade prática: análises bivariadas](praticas-aula/103-analises-bivariadas-solucao.pdf).
 
 **Aula 8**
 
- - Resolução de exercícios.
+ - [Resolução de exercícios](atividade-pre-prova.pdf).
+
 
 **Aula 9**
 
