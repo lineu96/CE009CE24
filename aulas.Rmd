@@ -106,7 +106,7 @@ output:
 **Aula 14**
 
  - [Variáveis aleatórias discretas e contínuas](slides/300-variaveis-aleatorias.pdf).
-  - [Atividade prática: variáveis aleatórias discretas e contínuas]().
+  - [Atividade prática: variáveis aleatórias discretas e contínuas](praticas-aula/300-variaveis-aleatorias-solucao.pdf).
   
 **Aula 15**  
 
