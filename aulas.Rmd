@@ -115,12 +115,10 @@ output:
 **Aula 16**
 
  - [Distribuições de probabilidade discretas](slides/301-distribuicoes-discretas.pdf).
- - Atividade prática: distribuições de probabilidade.
- 
+
 **Aula 17**
 
  - [Distribuições de probabilidade contínuas](slides/302-distribuicoes-continuas.pdf).
- - Atividade prática: distribuições de probabilidade.
 
 **Aula 18**
 
