@@ -130,7 +130,7 @@ notas$`SITUAÇÃO FINAL` <-
          "APROVADO",
          "REPROVADO")
 
-DT::datatable(notas[,c('NOME',
+DT::datatable(notas[,c(#'NOME',
                        'GRR', 
                        'FALTAS', 
                        'PROVA 1', 
